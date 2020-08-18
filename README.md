@@ -40,13 +40,13 @@ cd frontend
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run server
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Build for production
 
 ```
 npm run build
