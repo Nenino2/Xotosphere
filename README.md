@@ -11,7 +11,7 @@ cd backend
 ### Install dependencies
 
 ```
-npm i
+npm install
 ```
 
 ### Compile code
