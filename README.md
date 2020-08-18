@@ -1,5 +1,7 @@
 # Xotosphere
 
+Web app built by Node.js and Vue.js
+
 ## Backend
 
 Url: http://localhost:5000
