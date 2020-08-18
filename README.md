@@ -2,6 +2,10 @@
 
 ## Backend
 
+```
+cd backend
+```
+
 ### Install dependencies
 
 ```
@@ -21,6 +25,10 @@ npm run serve
 ```
 
 ## Frontend
+
+```
+cd frontend
+```
 
 ## Project setup
 
