@@ -2,6 +2,8 @@
 
 ## Backend
 
+Url: http://localhost:5000
+
 ```
 cd backend
 ```
@@ -25,6 +27,8 @@ npm run serve
 ```
 
 ## Frontend
+
+Url: http://localhost:8080
 
 ```
 cd frontend
