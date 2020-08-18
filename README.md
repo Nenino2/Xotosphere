@@ -30,7 +30,7 @@ npm run serve
 cd frontend
 ```
 
-## Project setup
+### Install dependencies
 
 ```
 npm install
